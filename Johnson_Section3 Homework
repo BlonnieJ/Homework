@@ -1,0 +1,15 @@
+1. What is an algorithm?
+An algorithm is a step-by-step procedure designed to solve a problem or perform a specific task. It is a clear, finite set of instructions that takes inputs and produces outputs efficiently.
+
+2. Variable names may not start with certain characters - name two.
+
+Variable names in programming cannot start with certain characters, such as numbers (e.g., 1variable) and special symbols like @, #, or %. They must begin with a letter or an underscore (_) to be valid.
+
+3. What is a Semantic error?
+A semantic error occurs when the syntax of a program is correct, but the logic or meaning of the code does not align with what the programmer intended. It causes the program to behave incorrectly or produce unintended results, even though it runs without crashing.
+
+4. What is the #1 rule of coding / debugging?
+The #1 rule of coding and debugging is to stay calm and systematic. Debugging thrives on a methodical approach: identify the problem, isolate the cause, fix it incrementally, and test thoroughly. Rushing leads to more errors; patience is key to solving even the trickiest bugs!
+
+5. Can you provide the complete list of Python reserved words?
+False, True, If, While, Else
