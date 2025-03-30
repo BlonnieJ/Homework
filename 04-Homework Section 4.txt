@@ -1,0 +1,49 @@
+1. What does one need to do to use a module?
+To use a module, you must import it first using the import statement. 
+
+2. Name a Module (not the DateTime Nodule) we looked at and write a line or 2 of code as an example using this module.
+A commonly used module is random
+
+3. What is a benefit of using Exception handling?
+Exception handling ensures that programs can handle unexpected errors gracefully without crashing. It also helps in debugging and maintaining code reliability.
+
+4. what are the 4 components used for Python Exception Handling?
+The four components are:
+
+try: Code that may raise an exception.
+
+except: Code to handle the exception.
+
+else: Code to execute if no exceptions are raised.
+
+finally: Code that always executes, regardless of exceptions.
+
+
+5. NumPy arrays are like what Python data type?
+NumPy arrays are similar to Python lists but with additional functionalities and better performance for numerical operations.
+
+6. What is one of the main benefits of using NumPy arrays.
+One of the main benefits is that they allow for element-wise operations and are highly optimized for performance compared to regular Python lists.
+
+7. What is one of the main requirements about the 'dtype' of NumPy arrays?
+All elements in a NumPy array must have the same data type (dtype), which ensures consistent and efficient operations.
+
+8. Of the 10 uses of NumPy, name 2.
+Two uses are:
+Mathematical operations such as matrix multiplication and linear algebra.
+Statistical analysis such as mean, median, and standard deviation.
+
+9. Name one of the other libraries we'll use with NumPy?
+A common library used alongside NumPy is pandas for data manipulation and analysis.
+
+10. What is the shape of NumPy arrays?
+The shape refers to the dimensions of the array and is represented as a tuple.
+
+11. What is a Tensor?
+A Tensor is a multi-dimensional array, often used in machine learning and deep learning to represent data. In essence, it’s an extension of NumPy arrays to higher dimensions.
+
+12. Name a reason why it's better using  NumPy for Data Analysis than using a Python List?
+NumPy is faster and more memory-efficient than Python lists, making it ideal for large-scale numerical computations.
+
+13. When creating an "empty" array, where do the elements come from?
+an "empty" array are uninitialized and contain arbitrary data (garbage values) that already exist in the allocated memory space.
